@@ -1,0 +1,132 @@
+.mini_header
+{
+    display: flex;
+    flex-direction: row;
+    background-color: mintcream;
+}
+
+.main_header
+{
+    background-color: rgb(5, 68, 104);
+    height: 400px;
+}
+
+
+.header_Link
+{
+    
+    position: relative;
+    right: 20px;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+padding: 5px;    
+overflow: hidden;
+
+}
+
+a{
+text-decoration: none;
+color: rgb(5, 68, 104);
+}
+a:hover 
+{
+    
+    color: black;
+
+}
+.profile_img
+{
+    clip-path: circle(50% at 50% 50%);
+
+    position: relative;
+    right: 50px;
+float: right;
+
+}
+.container
+{
+
+    position: relative;
+    background-color: rgb(5, 68, 104);
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px 55px ;
+color: white;
+
+}
+
+
+.exp_paragraph
+{
+    width: 50px;
+}
+.header{
+
+    text-transform: uppercase; background-color:lightskyblue; text-align: center;
+   text-shadow: 2px 2px 8px black;} 
+.main-footer
+{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(5, 68, 104);
+    color: white;
+    margin-bottom: 0px;
+    padding: 40px;
+    margin: 0px;
+
+}
+ .sm-handle a
+{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+font-size: 1em;
+
+}
+.sm-handle a:hover
+{
+    background-color: silver;
+    border-radius: 20px;
+}
+
+.facebook-handle
+{
+    color: #4267B2;
+}
+
+.instagram-handle
+{
+    color: 	#E1306C;
+}
+
+
+.twitter-handle
+{
+    color: #1DA1F2;
+}
+
+
+.linkedin-handle
+{
+    color:#0077b5;
+}
+
+
+.youtube-handle
+{
+    color: #FF0000;
+}
+.btn
+{
+    background-color: lightgreen;
+    border-radius: 5px;
+    color: white;
+}
+.btn:hover 
+{
+    
+    color: black;
+
+}
